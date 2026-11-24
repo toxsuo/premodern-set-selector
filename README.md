@@ -1,7 +1,7 @@
 # premodern-set-selector
 Chrome extension for automatically selecting premodern sets on TCGplayer, ManaPool, and The Comicbook Store websites
 
-# Premodern Set Shopper
+# Premodern Set Selector
 
 A Chrome extension that makes it easier to browse Premodern-era Magic: The Gathering cards across **TCGplayer, ManaPool, and ComicBookStore**.
 
